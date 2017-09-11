@@ -291,14 +291,8 @@ header.masthead {
   display: none;
   opacity: 0; }
 
-#portfolio-description p {
-  margin: 10px;
-  text-align: center;
-  font: 18px; }
-
-#portfolio-description li {
-  margin: 10px;
-  font-size: 18px; }
+.top-buffer {
+  margin: 30px; }
 
 .floating-label-form-group {
   position: relative;
